@@ -1,3 +1,5 @@
+# Menú calculadora de 2 números
+
 def suma(n1, n2):
     return n1 + n2
 
