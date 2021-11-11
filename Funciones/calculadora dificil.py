@@ -1,3 +1,5 @@
+# Calculadora que detecta la operación a realizar entre 2 números
+
 def detector_suma(string, posicion):
     num1 = string[0:posicion]
     num2 = string[posicion + 1:]
