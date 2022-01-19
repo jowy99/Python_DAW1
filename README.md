@@ -1,4 +1,3 @@
-# Python_DAW1
-Ejercicios Python primero DAW
+# Python DAW1
 
-Voy a separar por Trimestres y tipos de ejercicios los programas.
+Aquí dejo algunos de los ejercicios que he hecho en primero de DAW en Python. Seguramente no siga poniendo más código por que no estoy en eso ahora.
